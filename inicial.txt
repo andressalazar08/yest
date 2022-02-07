@@ -1,0 +1,6 @@
+Pasos para conectar un repositorio local con github
+
+1. logearse en github y crear un nuevo repositorio vacio
+2. ubicarse en el repositorio local en el repositorio, en la consola:
+    >git remote add origin <url>
+3.
